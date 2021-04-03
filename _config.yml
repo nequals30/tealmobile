@@ -1,0 +1,24 @@
+title: Tealmobile Games
+description: Currently working on Crownless, a Metrodvania for Android and iOS
+show_downloads: false
+
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://nequals30.github.io/tealMobile" # change this to the base hostname & protocol for your site
+
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+theme: # leave it empty
+
+# social
+author: AU
+image: /thumbnail-jumbo.png
+
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['crownless','about']
