@@ -1,4 +1,4 @@
-# Teal Mobile Games Website
+# Tealmobile Games Website
 
 This is the repo for the Teal Mobile games website, which can be found here:
 [http://www.nequals30.github.io/tealmobile](http://www.nequals30.github.io/tealmobile)
