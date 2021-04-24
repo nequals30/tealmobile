@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Tealmobile Games
 ---
 Tealmobile Games is a solo gamedev project, find out more about that [here](/about).
 
