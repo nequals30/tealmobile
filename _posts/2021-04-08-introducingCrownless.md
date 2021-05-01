@@ -4,6 +4,7 @@ title: "Introducing Crownless"
 tagline: "A First Look at the Game"
 categories: crownless 
 image: /assets/blog_images/crownless_snowRun.gif
+permalink: "blog/introducing-crownless"
 ---
 Crownless is a mobile action/adventure platformer game in development for Android and iOS.
 

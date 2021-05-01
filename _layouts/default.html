@@ -68,7 +68,11 @@
 			{% if page.layout == 'home' %}
 			<img src="assets/images/logo.png" width="20%" style="max-width:300px;" />
 			{% endif %}
+			{% if page.title == 'Crownless' %}
+			<img src="/assets/images/crownless_logo.png" alt="Crownless" width="40%" style="max-width:500px;" />
+			{% else %}
             <h1 class="project-name">{{ page-title }}</h1>
+			{% endif %}
             <h2 class="project-tagline">{{ page-tagline }}</h2>
 <!-- not on home page, but we'll use these download buttons on game pages
             {% if page.layout == 'home' and site.github.is_project_page %}
