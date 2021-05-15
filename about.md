@@ -7,11 +7,11 @@ ref: about
 order: 0
 ---
 
-Tealmobile Games is the game development project of [Alik U.](http://www.ulmasov.com)
+Tealmobile Games is a one-man game development project.
 
 I am currently working on [Crownless](/crownless), a mobile action / adventure / Metroidvania platformer for iOS and Android.
 
-I aspire to make quality mobile games with quality content. I'd like to see more mobile games at a flat price without ads and in-app purchases, and I plan to release Crownless that way.
+I aspire to make quality mobile games with quality content. I'd like to see more mobile games at a flat price without ads and in-app purchases, and that's how I plan to release my games.
 
 I use open source tools to make everything; I will write a blog post about that soon.
 
