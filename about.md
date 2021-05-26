@@ -13,6 +13,6 @@ I am currently working on [Crownless](/crownless), a mobile action / adventure /
 
 I aspire to make quality mobile games with quality content. I'd like to see more mobile games at a flat price without ads and in-app purchases, and that's how I plan to release my games.
 
-I use open source tools to make everything; I will write a blog post about that soon.
+I use open source tools to make everything, here is a [list of tools used to make Crownless](http://localhost:4000/blog/tools-used-to-make-crownless).
 
 Game development is something I'm doing in my free time, outside of my day job, so please be patient if my updates are infrequent.

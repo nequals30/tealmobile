@@ -20,11 +20,11 @@ You arrive in the kingdom just as the reign of a king is coming to an end. Vario
 
 ### Development
 
-<img src="/assets/blog_images/crownless_flippers.gif" style="float:right; padding-left:15px" width="40%" />
+<img src="/assets/blog_images/crownless_spider.gif" style="float:right; padding-left:15px" width="40%" />
 
 Development on the game started in the summer of 2018, and it's been going at a pretty slow and steady pace.
 
-It's made using the [LÖVE](https://love2d.org/) framework.
+It's written in Lua using the LÖVE framework. Here's a list of the [tools used to make Crownless](/blog/tools-used-to-make-crownless).
 
 <br/>
 <br/>
