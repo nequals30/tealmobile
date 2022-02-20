@@ -9,9 +9,13 @@ order: 2
 
 Crownless is a mobile action/adventure platformer game in development for Android and iOS.<br/>
 
-<div style="text-align:center"><img src="/assets/blog_images/crownless_snowRun.gif" width="40%" /></div>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_pgQOT84oTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 ### Story
+<img src="/assets/blog_images/crownless_snowRun.gif" style="float:right; padding-left:15px" width="40%" />
 _Crownless_ is set in a kingdom where kings rule for a hundred years.
 
 During their reign, kings are completly invulnerable. And when their century of rule comes to an end, whoever deposes them becomes the next king.
