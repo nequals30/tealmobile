@@ -10,7 +10,7 @@ order: 2
 Crownless is a mobile action/adventure platformer game in development for Android and iOS.<br/>
 
 <p align="center">
-<iframe width="70%" height="315" src="https://www.youtube.com/embed/_pgQOT84oTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="70%" height="315" src="https://www.youtube.com/embed/SIVpTY6AIrI?si=Jibo_V2alX9d101l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 
